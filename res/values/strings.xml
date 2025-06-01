@@ -1,3 +1,3 @@
 <resources>
-    <string name="string1">This string was once 1.</string>
+    <string name="string1">This string was once 1.\nThen it was 2.</string>
 </resources>
